@@ -1,0 +1,5 @@
+project:
+  title: My Data Science Book
+  index: index.md
+site:
+  template: book-theme
